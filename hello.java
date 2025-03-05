@@ -6,5 +6,6 @@ class hello{
         System.out.println("enter a num");
         int i = sc.nextInt();
         System.out.println("hello world -" + (i+10));
+        System.out.println("hello world -" + (i*10));
     }
 }
