@@ -5,6 +5,6 @@ class hello{
         Scanner sc =new Scanner(System.in);
         System.out.println("enter a num");
         int i = sc.nextInt();
-        System.out.println("hello world -" + i);
+        System.out.println("hello world -" + (i+10));
     }
 }
